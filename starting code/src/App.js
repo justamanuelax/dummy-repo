@@ -20,7 +20,7 @@ function App() {
         <Meals />
       </main>
     </CartProvider>
-  );
+  ); // Just added some comments to the code looked a bit dry.
 }
 
 export default App;
